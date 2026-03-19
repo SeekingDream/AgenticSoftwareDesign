@@ -16,7 +16,7 @@ By the end, students will:
 ### Classical SE (retain from 50002)
 
 * Apply design patterns, refactoring, and TDD
-* Evaluate maintainability, modularity, and cost of change ([帝国学院][1])
+* Evaluate maintainability, modularity, and cost of change 
 
 ### Agentic AI Extensions
 
@@ -43,7 +43,7 @@ By the end, students will:
 ### Week 2: Introduction to Agentic AI
 
 * What is agentic AI vs LLM APIs
-* Autonomy spectrum (tool → agent → multi-agent) ([深度学习.ai][2])
+* Autonomy spectrum (tool → agent → multi-agent)
 * Case studies: AI coding agents, copilots
 
 ### Week 3: Agent Architecture Basics
@@ -128,7 +128,7 @@ By the end, students will:
 
 ## 4. Labs & Practical Work (Core Strength)
 
-Following Imperial’s **“learning by doing” model** ([帝国学院][1]):
+Following Imperial’s **“learning by doing” model** :
 
 ### Weekly Labs
 
@@ -193,20 +193,6 @@ Examples:
 
 ### New Additions
 
-* Agentic AI design patterns (Andrew Ng course) ([深度学习.ai][2])
+* Agentic AI design patterns (Andrew Ng course) 
 * LangChain / agent frameworks ([Coursera][3])
 * Recent agentic systems research (architecture + governance)
-
----
-
-## 8. Optional Differentiation (for Imperial context)
-
-You could explicitly position this as:
-
-> **“50002X: Software Engineering Design in the Age of AI Agents”**
-
-And align with:
-
-* ML course (50013)
-* Systems (OS, compilers)
-* Your research area: **AI + systems + security**
