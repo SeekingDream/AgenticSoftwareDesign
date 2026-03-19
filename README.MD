@@ -70,7 +70,7 @@ By the end, students will:
 
 * Reflection pattern
 * ReAct (reason + act)
-* Tool-use pattern ([深度学习.ai][2])
+* Tool-use pattern 
 * Comparison with classical design patterns
 
 ### Week 6: Workflow Orchestration
